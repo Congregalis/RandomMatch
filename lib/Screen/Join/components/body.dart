@@ -28,8 +28,10 @@ class Body extends StatelessWidget {
             ),
             SizedBox(height: size.height * 0.05),
             SvgPicture.asset(
-              "assets/login.svg",
+              // "assets/login.svg",
+              "wait.svg",
               height: size.height * 0.35,
+              fit: BoxFit.contain,
             ),
             SizedBox(height: size.height * 0.20),
             RoundedInputField(
