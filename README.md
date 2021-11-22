@@ -1,16 +1,18 @@
-# first
+# Random Match
 
-A new Flutter project.
+一个基于 Flutter 和 Agora SDK 开发的 demo，支持安卓与IOS，可以让用户进入房间匹配进行视频聊天。
 
-## Getting Started
+## 使用说明
 
-This project is a starting point for a Flutter application.
+克隆该项目后直接运行 `main.dart`
 
-A few resources to get you started if this is your first Flutter project:
+## 使用截图
+![](images/join.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](images/room1.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](images/room2.png)
+
+![](images/room3.png)
+
+由于我的模拟器有点问题打不开摄像头，暂时用这个截图凑合着。
