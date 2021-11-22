@@ -4,7 +4,9 @@
 
 ## 使用说明
 
-克隆该项目后直接运行 `main.dart`
+1. 克隆该项目
+2. 替换 `constants.dart` 中的 `APP_ID` 和 `Token` 为你自己在声网申请的
+3. 直接运行 `main.dart`
 
 ## 使用截图
 ![](images/join.png)
